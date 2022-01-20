@@ -1,0 +1,184 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "solo.js",
+        "badword.js",
+        "pay.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "NVP•𝐁𝐎𝐓...",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100021446501428",
+        "100001526796949",
+        "100049962174076",
+        "",
+        "100042502636339"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false
+    },
+    "version": "1.2.9",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 2000
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "443371487424505|cb7da2f464342f3e2e680301681ebfd7"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "606fda3b109baf1879bfebeb85b47b5e275c4dbb"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyDMtjMqhSISdWrkY4xkHEwoQl6x6WGR01E",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyDMtjMqhSISdWrkY4xkHEwoQl6x6WGR01E"
+    },
+    "weather": {
+        "OPEN_WEATHER": "196ac91264f90df6590b46309556229f"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "ghep": {
+        "APIKEY": "443371487424505|cb7da2f464342f3e2e680301681ebfd7"
+    },
+    "info": {
+        "APIKEY": "443371487424505|cb7da2f464342f3e2e680301681ebfd7"
+    },
+    "sim": {
+        "APIKEY": "Meew_nkWBEPxoEUKtvetimYb0iuE8f8BAf7"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "shortlink": {
+        "bitlyAPI": "150ef1bc3af86500796d645c86f56766e4802566"
+    },
+    "log": {
+        "enable": true
+    },
+    "covid": {
+        "APIKEY": "Meew_nkWBEPxoEUKtvetimYb0iuE8f8BAf7"
+    },
+    "hitbutt": {
+        "APIKEY": "Meew_nkWBEPxoEUKtvetimYb0iuE8f8BAf7"
+    },
+    "img": {
+        "APIKEY": "Meew_nkWBEPxoEUKtvetimYb0iuE8f8BAf7"
+    },
+    "linkword": {
+        "APIKEY": "Meew_nkWBEPxoEUKtvetimYb0iuE8f8BAf7"
+    },
+    "slap": {
+        "APIKEY": "Meew_nkWBEPxoEUKtvetimYb0iuE8f8BAf7"
+    },
+    "sortword": {
+        "APIKEY": "Meew_nkWBEPxoEUKtvetimYb0iuE8f8BAf7"
+    },
+    "teach": {
+        "APIKEY": "Meew_nkWBEPxoEUKtvetimYb0iuE8f8BAf7"
+    },
+    "in4": {
+        "APIKEY": "443371487424505|cb7da2f464342f3e2e680301681ebfd7"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 50
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "tikvideo": {
+        "APIKEY": "a012e05802msh4ce48bff26d5c0ap151d85jsn4edde7f89de0"
+    },
+    "audio": {
+        "YOUTUBE_API": "AIzaSyDMtjMqhSISdWrkY4xkHEwoQl6x6WGR01E",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "nameJP": {
+        "APIKEY": "mi451266190"
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "tiktok": {
+        "APIKEY": "Meew_XzrMWjAqSw9Kjk0UtJqomUocpjgYCq"
+    },
+    "sim2": {
+        "APIKEY": "Meew_nkWBEPxoEUKtvetimYb0iuE8f8BAf7"
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "hép": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "aio": {
+        "APIKEY": ""
+    },
+    "meewmeew": {
+        "auto_update": true
+    },
+    "xoso": {
+        "APIKEY": ""
+    }
+}
